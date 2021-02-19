@@ -10,8 +10,3 @@ body {
   background-color: #eff3f7;
   height: 100%;
 }
-.container,
-.loader {
-  display: flex;
-  justify-content: center;
-}
